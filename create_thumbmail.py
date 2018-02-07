@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 # create_thumb.py
 # multiprocessing
+# 2018/2/7 today Falcon Heavy lauched by spacex
 # WebP format 适合网页显示及传输
 # 3036 images cup=4 run_time=4.7;cup=2 run_time=7.3;cup=1,run_time=11.5
 """
